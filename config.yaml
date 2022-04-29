@@ -1,0 +1,30 @@
+baseURL: https://sroemer.org/
+languageCode: en-us
+title: SRoemer.org
+theme: terminal
+
+params:
+  themeColor: blue
+  centerTheme: true
+
+languages:
+  en:
+    languageName: English
+    title: sroemer.org
+    subtitle:
+
+    params:
+      logo:
+        logoText: sroemer.org
+        logoHomeLink: /
+
+    menu:
+      main:
+      - identifier: posts
+        name: posts
+        url: /
+        weight: 1
+      - identifier: about
+        name: about me
+        url: /about
+        weight: 2
