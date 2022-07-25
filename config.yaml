@@ -15,7 +15,7 @@ languages:
 
     params:
       logo:
-        logoText: sroemer.org
+        logoText: SENVANG IT Solutions | Stefan Römer
         logoHomeLink: /
 
     menu:
@@ -27,4 +27,8 @@ languages:
       - identifier: about
         name: about me
         url: /about
+        weight: 2
+      - identifier: business
+        name: business
+        url: /business
         weight: 2
