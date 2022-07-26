@@ -13,7 +13,7 @@ Ward 15, Tan Binh District
 72109 Ho Chi Minh City  
 Vietnam
 
-{{< google_maps >}}
+{{< osm_map_contact >}}
 
 
 ---
