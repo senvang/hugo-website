@@ -22,16 +22,3 @@ concurrent data races at compile time. I also got interested in cyber security a
 on the [TryHackMe](https://www.tryhackme.com) platform. Here my TryHackMe badge: {{< thm_badge >}}
 
 I live in Vietnam and also like photography, badminton and lots of coffee.
-
----
-
-# Address
-
-Stefan Römer  
-4-A3 Hope Garden Plaza  
-102 Phan Huy Ich  
-Ward 15, Tan Binh District  
-72109 Ho Chi Minh City  
-Vietnam
-
-{{< google_maps >}}
