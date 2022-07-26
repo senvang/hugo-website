@@ -36,5 +36,5 @@ The Pre-Security learning path is a beginner friendly and fun way to learn the b
     Get hands-on access to Windows and it's security controls. These basics will help you in identifying, exploiting and defending Windows.
 
 
-{{< image src="/img/posts/2022-05-04/thm_cert_pre_security.png" alt="pre security certificate" position="center" >}}
+{{< image src="/img/posts/2022/05/2022-05-04_thm_cert_pre_security.png" alt="pre security certificate" position="center" >}}
 

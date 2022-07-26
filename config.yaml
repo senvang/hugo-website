@@ -1,6 +1,6 @@
-baseURL: https://sroemer.org/
+baseURL: https://senvang.org/
 languageCode: en-us
-title: SRoemer.org
+title: senvang.org
 theme: terminal
 
 params:
@@ -10,7 +10,7 @@ params:
 languages:
   en:
     languageName: English
-    title: sroemer.org
+    title: senvang.org
     subtitle:
 
     params:
@@ -20,15 +20,19 @@ languages:
 
     menu:
       main:
-      - identifier: posts
-        name: posts
-        url: /
+      - identifier: business
+        name: business
+        url: /business
         weight: 1
       - identifier: about
         name: about me
         url: /about
         weight: 2
-      - identifier: business
-        name: business
-        url: /business
-        weight: 2
+      - identifier: contact
+        name: contact
+        url: /contact
+        weight: 3
+      - identifier: posts
+        name: posts
+        url: /posts
+        weight: 4

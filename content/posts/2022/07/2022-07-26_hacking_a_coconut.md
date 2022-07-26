@@ -13,5 +13,5 @@ hideComments: false
 
 Hacking a coconut. An unconventional way to open a coconut.
 
-{{< image src="/img/posts/2022-07-26/hacking_a_coconut.jpeg" alt="hacking a coconut" position="center" >}}
+{{< image src="/img/posts/2022/07/2022-07-26_hacking_a_coconut.jpeg" alt="hacking a coconut" position="center" >}}
 
