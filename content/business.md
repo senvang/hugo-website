@@ -20,7 +20,8 @@ Please also consider having a look at the [about me](/about) section of this web
 # Company Address
 
 SENVANG IT Solutions Co. Ltd.  
-62 Nguyen Ba Tuyen  
-Ward 12, Tan Binh District  
-72510 Ho Chi Minh City  
+A6/48E Nguyen Thi Tron, Ap 1A  
+Vinh Loc A Commune  
+Binh Chanh District  
+71821 Ho Chi Minh City  
 Vietnam
