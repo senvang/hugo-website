@@ -1,3 +1,4 @@
 .hugo_build.lock
-deploy.sh
+deploy*
 public/
+resources/
