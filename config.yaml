@@ -5,6 +5,7 @@ theme: terminal
 
 params:
   themeColor: blue
+  favicon: img/favicon.png
   centerTheme: true
 
 languages:
