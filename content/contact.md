@@ -23,9 +23,9 @@ Vietnam
 * phone: +84931131612  
 
 * find me on:
-    - [linkedin](https://www.linkedin.com/in/stefan-roemer-35405825b/)
+    - [linkedin](https://www.linkedin.com/in/stefan-r%C3%B6mer-35405825b/)
     - [xing](https://www.xing.com/profile/Stefan_Roemer212/)
-    - [github (sroemer)](https://github.com/sroemer)
+    - [github](https://github.com/sroemer)
     - [tryhackme](https://tryhackme.com/p/RustyRoman)
     - [signal](https://signal.org)
     - [zalo](https://zalo.me/stefanroemer)

@@ -11,10 +11,11 @@ SENVANG IT Solutions Co. Ltd. is my Vietnam based business for providing softwar
 I have 15+ years of experience in C/C++ development and did work as an employee in the field of industrial automation
 and machine vision until 2019. Then I moved to Vietnam and got self-employed.
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/stefan-roemer-35405825b/),
-[Xing](https://www.xing.com/profile/Stefan_Roemer212/) or via the [contact](/contact) page.
+You can contact me via the [contact](/contact) page or my profiles on LinkedIn and Xing:
 
+[{{< image src="/img/linkedin_logo.png" alt="LinkedIn" position="center" style="border-style: none; margin-top: 50px" >}}](https://www.linkedin.com/in/stefan-r%C3%B6mer-35405825b/)
 
+[{{< image src="/img/xing_logo.png" alt="Xing" position="center" style="border-style: none; margin-top: 50px" >}}](https://www.xing.com/profile/Stefan_Roemer212/)
 
 ---
 
