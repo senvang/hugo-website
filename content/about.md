@@ -14,7 +14,7 @@ custom interfaces, amongst others a CORBA interface used in the sorting centers 
 logistics company).
 
 I studied Information and Communications Technologies (ICT) at the Frankfurt University of Applied Sciences
-from which I graduated with the degree of a Dipl.-Ing.(FH) [Graduate Engineer (University of Applied Sciences)]
+from which I graduated with the degree of a Dipl.&#x2011;Ing.(FH) [Graduate Engineer (University of Applied Sciences)]
 in 2006. Since 2007 I did work as a development engineer in the field of industrial automation and machine vision.
 In 2019 I moved to Vietnam, started my own business and do provide software development services on a free
 lance basis.
