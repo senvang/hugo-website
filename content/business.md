@@ -27,3 +27,5 @@ Vinh Loc A Commune
 Binh Chanh District  
 71821 Ho Chi Minh City  
 Vietnam
+
+{{< osm_map_business >}}
