@@ -24,7 +24,7 @@ With the time I used different Windows versions (from Windows 3.1 to the current
 got my hands on a bundle of SuSE Linux 5.1 at the local book store I am a Linux fan and Windows didn't
 touch my own PCs since many years. Currently my PCs run Gentoo and Artix Linux.
 
-I am developing mainly with C/C++ and bash scripts. Somtimes use Python as well and recently got started
+I am developing mainly with C/C++ and bash scripts. Sometimes I use Python as well and recently I got started
 using Rust as a modern programming language which enforces memory safety and prevents concurrent data races at
 compile time. I also got interested in cyber security and started gaining knowledge on the
 [TryHackMe](https://www.tryhackme.com) platform. Here my TryHackMe badge: {{< thm_badge >}}
