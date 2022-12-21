@@ -15,7 +15,7 @@ logistics company).
 
 I studied Information and Communications Technologies (ICT) at the Frankfurt University of Applied Sciences
 from which I graduated with the degree of a Dipl.&#x2011;Ing.(FH) [Graduate Engineer (University of Applied Sciences)]
-in 2006. Since 2007 I did work as a development engineer in the field of industrial automation and machine vision.
+in 2006. Since 2007 I did work as a development engineer in the field of industrial and logistics automation.
 In 2019 I moved to Vietnam, started my own business and do provide software development services on a free
 lance basis.
 
@@ -29,7 +29,7 @@ using Rust as a modern programming language which enforces memory safety and pre
 compile time. I also got interested in cyber security and started gaining knowledge on the
 [TryHackMe](https://www.tryhackme.com) platform. Here my TryHackMe badge: {{< thm_badge >}}
 
-I fell in love with Vietnam and live here. I also like photography, badminton and strong vietnamese coffee - lots of it.
+I fell in love with Vietnam so I live and work here. I also like photography, badminton and strong vietnamese coffee - lots of it.
 
 ---
 
