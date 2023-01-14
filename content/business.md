@@ -41,7 +41,7 @@ problem analysis and resolution on site. This also involved international contac
 personnel, business partners and customers.
 
 + Amongst others using Makefiles, Eclipse, MS Visual Studio, CVS, Git, STL, MFC, Qt, ACE, TAO,
-GiGE/USB3 Vision Cameras, Scales and Dimensioners via TPC/IP and RS232 interfaces
+GigE/USB3 Vision Cameras, Scales and Dimensioners via TPC/IP and RS232 interfaces
 
 -> see [reference](/img/reference_vitronic.pdf)
 
@@ -72,3 +72,5 @@ Binh Chanh District
 Vietnam
 
 {{< osm_map_business >}}
+
+Business registration / tax number: 0315745704
