@@ -1,7 +1,7 @@
 baseURL: https://senvang.org/
 languageCode: en-us
 title: senvang.org
-theme: terminal
+theme: senvang
 
 params:
   themeColor: blue
