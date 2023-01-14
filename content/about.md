@@ -53,7 +53,7 @@ I fell in love with Vietnam so I live and work here. I also like photography, ba
    SSH (see CLI or GUI above).
 
  - Web Development?  
-   Some HTML and CSS is OK. Nothing more than that!
+   Some HTML and CSS is OK. I don't do more than that!
 
  - Databases?  
    Find someone else!
@@ -70,7 +70,7 @@ I fell in love with Vietnam so I live and work here. I also like photography, ba
    Vietnamese people are early birds, they get up when I go to bed. I'm a night owl!
 
  - Beer or Wine?  
-   "Ebbelwoi" (apple wine - like me it's from the german State of Hessen)
+   "Ebbelwoi" (apple cider - like me it's from the german State of Hessen)
 
 ---
 
