@@ -4,7 +4,7 @@ date:
 draft: false
 ---
 
-* phone: +84931131612
+* phone: +84931131612 (MobiFone) and +84967122213 (Viettel)
 
 * find me on:
     - [linkedin](https://www.linkedin.com/in/stefan-r%C3%B6mer-35405825b/)
