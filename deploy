@@ -1,2 +1,2 @@
 #!/bin/bash
-hugo && rsync -avz --delete public/ "$USER"@arcturus.uberspace.de:~/html/
+hugo && rsync -avz --delete public/ uberspace:~/html/
