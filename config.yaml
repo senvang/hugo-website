@@ -33,7 +33,3 @@ languages:
         name: contact
         url: /contact
         weight: 3
-      - identifier: posts
-        name: posts
-        url: /posts
-        weight: 4
