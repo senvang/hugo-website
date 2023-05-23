@@ -8,7 +8,22 @@ draft: false
 
 SENVANG IT Solutions Co. Ltd. is my Vietnam based business for providing software development services on a freelance basis.
 
-You can find more information [about me](/about) and you can [contact](/contact) me via the according pages.
+Core competences and interests:
+
++ Preferably development on Linux
++ Development in C/C++, Python, Bash or Rust
++ Solid technical foundation and understanding of OS, hardware and software
++ Broad knowledge and understanding of network programming and related protocols
++ 15+ years experience in software development in industrial/logistics automation
+
+Not interested in:
+
++ Web development
++ GUI development
++ Databases
++ ERP etc.
+
+You can find more information [about me](/about) and you can [contact](/contact) me via the according pages. More about my [working experience](./#working-experience) and related references can be found below.
 
 Additionally you can find me on [LinkedIn](https://www.linkedin.com/in/stefan-r%C3%B6mer-35405825b/) and [Xing](https://www.xing.com/profile/Stefan_Roemer213/).
 
