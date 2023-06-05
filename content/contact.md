@@ -13,6 +13,10 @@ draft: false
     - [zalo](https://zalo.me/stefanroemer)
     - [github](https://github.com/sroemer)
 
+* pgp public key:
+    - download:  [pubkey.asc](/pubkey.asc)
+    - fingerprint: 1B2F 8636 56B3 8133 5B96  5E70 8012 A30B 3812 F2EE
+
 * send an email via the contact form:
 
     {{< formspree_contact >}}
