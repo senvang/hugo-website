@@ -14,7 +14,7 @@ draft: false
     - [github](https://github.com/sroemer)
 
 * pgp public key:
-    - download:  [pubkey.asc](/pubkey.asc)
+    - download:  [pubkey.asc](/gnupg/pubkey.asc) or [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/1B2F863656B381335B965E708012A30B3812F2EE)
     - fingerprint: 1B2F 8636 56B3 8133 5B96  5E70 8012 A30B 3812 F2EE
 
 * send an email via the contact form:
