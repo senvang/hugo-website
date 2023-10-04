@@ -61,7 +61,8 @@ personnel, business partners and customers.
 + Amongst others using Makefiles, Eclipse, MS Visual Studio, CVS, Git, STL, MFC, Qt, ACE, TAO,
 GigE/USB3 Vision Cameras, Scales and Dimensioners via TPC/IP and RS232 interfaces
 
--> see [reference](/img/reference_vitronic.pdf)
+-> see [original reference in german language](/img/reference_vitronic.pdf)  
+-> or  [reference in english language](/img/reference_vitronic_en.pdf) (translated by Google Translate)
 
 #### Diehl Aviation (10/2005 - 03/2006)
 
@@ -69,14 +70,16 @@ Development of an automated tool for loading the application software on the Doo
 System (DSMS) of the Airbus A380 in a fast and reliable way. The DSMS is a redundant system that powers
 and monitors the A380's passenger doors, hatches and escape slides.
 
--> see [reference](/img/reference_diehl.pdf)
+-> see [original reference in german language](/img/reference_diehl.pdf)  
+-> or  [reference in english language](/img/reference_diehl_en.pdf) (translated by Google Translate)
 
 #### Schneider Electric (07/2002 - 08/2002)
 
 Assembling and wiring of control cabinets for the automotive industry according to circuit diagrams,
 terminal plans and parts lists and assemblies of devices and PLC controls.
 
--> see [reference](/img/reference_schneider-electric.pdf)
+-> see [original reference in german language](/img/reference_schneider-electric.pdf)  
+-> or  [reference in english language](/img/reference_schneider-electric_en.pdf) (translated by Google Translate)
 
 ---
 
