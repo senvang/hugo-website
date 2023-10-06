@@ -21,9 +21,9 @@ lance basis.
 
 I am a Linux user and Windows didn't touch my PCs since many years (currently running Gentoo and Artix Linux).
 I like minimalistic (e.g. embedded) systems and dealing with low-level stuff. I feel at home in a terminal and prefer
-a good command line interface over GUIs where feasable.
+a good command line interface over GUIs where feasible.
 
-I also like photography, 3D printing, CAD, badminton and strong vietnamese coffee - lots of it.
+I also like tinkering (with Arduino, ESP32, Raspberry Pi etc.), 3D printing, badminton and I NEED coffee.
 
 ---
 
