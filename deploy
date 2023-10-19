@@ -1,2 +1,2 @@
 #!/bin/bash
-hugo && rsync -avz --delete public/ uberspace:~/html/
+hugo && rsync -avz --delete public/ vs1:/var/www/senvang/public/
