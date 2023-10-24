@@ -17,7 +17,7 @@ Providing software development services on a freelance basis
 ---
 
 #### VITRONIC Machine Vision (01/2007 - 03/2019)
-->    *see reference in [german](/img/reference_vitronic.pdf) (original) or  [english](/img/reference_vitronic_en.pdf) (translation by Google Translate)*
+->    *see reference in [german](/pdf/reference_vitronic.pdf) (original) or  [english](/pdf/reference_vitronic_en.pdf) (translation by Google Translate)*
 
 Software engineer in logistics automation responsible for the following tasks:
 
@@ -40,7 +40,7 @@ Software engineer in logistics automation responsible for the following tasks:
 ---
 
 #### Diehl Aviation (10/2005 - 03/2006) *internship*
-->    *see reference in [german](/img/reference_diehl.pdf) (original) or  [english](/img/reference_diehl_en.pdf) (translation by Google Translate)*
+->    *see reference in [german](/pdf/reference_diehl.pdf) (original) or  [english](/pdf/reference_diehl_en.pdf) (translation by Google Translate)*
 
 Development of an automated tool for loading the application software on the Doors and Slides Management
 System (DSMS) of the Airbus A380 in a fast and reliable way. The DSMS is a redundant system that powers
@@ -49,7 +49,7 @@ and monitors the A380's passenger doors, hatches and escape slides.
 ---
 
 #### Schneider Electric (07/2002 - 08/2002) *internship*
-->    *see reference in [german](/img/reference_schneider-electric.pdf) (original) or [english](/img/reference_schneider-electric_en.pdf) (translation by Google Translate)*
+->    *see reference in [german](/pdf/reference_schneider-electric.pdf) (original) or [english](/pdf/reference_schneider-electric_en.pdf) (translation by Google Translate)*
 
 Assembling and wiring of control cabinets for the automotive industry according to circuit diagrams,
 terminal plans and parts lists and assemblies of devices and PLC controls.
