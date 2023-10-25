@@ -41,3 +41,7 @@ languages:
         name: git
         url: https://git.senvang.org/user/login/
         weight: 4
+      - identifier: news
+        name: news
+        url: /posts
+        weight: 5
