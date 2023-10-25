@@ -2,11 +2,16 @@
 title: I ordered a new virtual server
 date: 2023-10-14T00:00:00+07:00
 author: sroemer
+categories:
+- it
 tags:
 - server
 - linux
 - devuan
 keywords:
+- server
+- linux
+- devuan
 showFullContent: true
 readingTime: false
 hideComments: false
