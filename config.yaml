@@ -1,7 +1,5 @@
-baseURL: https://senvang.org/
-copyright: SENVANG IT Solutions Co. Ltd. | Stefan Römer
+baseURL: /
 languageCode: en-us
-title: senvang.org
 theme: senvang
 
 params:
@@ -12,7 +10,8 @@ params:
 languages:
   en:
     languageName: English
-    title: senvang.org
+    copyright: SENVANG IT Solutions Co. Ltd. | Stefan Römer
+    title: SENVANG IT Solutions
 
     params:
       logo:
