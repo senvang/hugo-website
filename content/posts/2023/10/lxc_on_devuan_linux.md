@@ -90,10 +90,10 @@ Additionaly we change the AppArmor profile as follows:
 
 For creation of a new container we use the `lxc-create` command. `lxc-create -t download -n <container-name>`
 is a good start and provides an interactive way to create a new container. In my case I want to
-install the `daedalus` release for the `amd64` architecture of the `devuan` distribution.
+install the `3.18` release for the `amd64` architecture of the `alpine` distribution.
 
 This all also can be packed into the command directly:  
-`lxc-create -t download -n <container-name> -- --dist devuan --release daedalus --arch amd64`
+`lxc-create -t download -n <container-name> -- --dist alpine --release 3.18 --arch amd64`
 
 ##### network
 
@@ -106,8 +106,9 @@ to allow the user to add 1 veth device to the lxcbr0 bridge:
 ##### using the container
 
 To start an already existing container the command `lxc-start -n <container-name>` is used.
-With everything I described above done the container does start but still shows some error messages
-`tmpfs: Bad value for 'uid'`. So there are still some things to investigate.
+With everything I described above done the container does start without issues. Previously
+appearing `tmpfs: Bad value for 'uid'` error message were related to the Devuan container
+image used. The errors disappeared after I switched to using the Alpine Linux image.
 
 Once the container is running we can start a process in the container with `lxc-attach`.
 For example `lxc-attach -n <container-name> bash` will provide shell access to the container.
@@ -121,8 +122,7 @@ For example `lxc-execute -n <container-name> bash` will provide shell access as 
 
 I am not done with this topic yet but for now this is a good foundation and a playground to
 further investigate if I want to run containers on the server. I might update this post at
-some point in case I find out why there are still appearing some error messages or if I have
-any other points worth mentioning.
+some point if I have any points worth mentioning.
 
-Especially the network setup was barely touched here and could be a topic on its own at some point.
-For now that's it ...
+Especially the network setup was barely touched here and could be a topic for a separate post
+at some point. For now that's it ...
