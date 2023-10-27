@@ -1,6 +1,6 @@
 ---
 title: Linux Containers (LXC) on Devuan Daedalus 5.0
-date: 2023-10-25T00:00:00+07:00
+date: 2023-10-26T06:00:00+07:00
 author: sroemer
 categories:
 - it
@@ -99,9 +99,9 @@ This all also can be packed into the command directly:
 
 With all this set up the container still fails to start because it cannot set up its network.
 By default unprivileged containers cannot use any networking. We need to create an additional
-configuration file `/etc/lxc/lxc-usernet` as root. This file must have the following entry
-to allow the user to add 1 veth device to the lxcbr0 bridge:  
-`<user> veth lxcbr0 1`
+configuration file `/etc/lxc/lxc-usernet` as root. This file must have an entry to allow the
+user to add veth devices - up to 16 in in my case - to the lxcbr0 bridge:  
+`<user> veth lxcbr0 16`
 
 ##### using the container
 
