@@ -1,6 +1,6 @@
 ---
 title: Linux Containers (LXC) on Devuan Daedalus 5.0
-date: 2023-10-26T06:00:00+07:00
+date: 2023-10-31T16:38:00+07:00
 author: sroemer
 categories:
 - it
@@ -33,13 +33,21 @@ should not go that smoothly for much longer.
 #### cgroups
 
 LXC relies on cgroups, a Linux kernel feature for isolation, limitation and accounting of
-resource usage of processes. On distributions using systemd this is set up by systemd, but
-with Devuan I chose to not use systemd.
+resource usage of processes. On distributions using systemd this is set up by systemd,
+but with Devuan I chose to not use systemd.
 
 You guessed it: `lxc-checkconfig` and `ls /sys/fs/cgroup` show that cgroups are not set up
-by default (at least not with my minimal installation), but some research and serveral cups
-of coffee later a solution appeared: run `apt-get install cgroupfs-mount` and this problem
-is solved.
+by default (at least not with my minimal installation). LXC can work with cgroups v1 but
+cgroups v2 provide a cleaner, unified hierarchy and therefore are my preferred way.
+
+To mount the cgroup v2 filesystem at boot time, I simply created an additional entry in
+the `/etc/fstab` file:  
+`none    /sys/fs/cgroup    cgroup2    defaults    0 0`
+
+In case you want to use cgroups v1 you can install the `cgroupfs-mount` package which
+installs a service to perform the required mounts at boot time.
+
+That's all that is required to set up cgroups for LXC.
 
 #### unpriviledged vs. priviledged containers
 
