@@ -9,8 +9,8 @@ Hi, I am Stefan Römer.
 
 {{< image src="/img/avatar.png" alt="Stefan Römer" position="center" style="border-style: solid; bolder-size: 8px; border-color: grey; border-radius: 50%;" >}}
 
-Welcome on my website which is accessible via [senvang.org](https://senvang.org)
-and [sroemer.org](https://sroemer.org) and serves as:
+Welcome on my website which is accessible via [senvang.org](https://senvang.org),
+[senvang.it](https://senvang.it) and [sroemer.org](https://sroemer.org) and serves as:
 
 1. the web presence of my business providing software development services on a
    freelance basis (via my Vietnam based company SENVANG IT Solutions Co. Ltd.)
