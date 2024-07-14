@@ -36,11 +36,7 @@ languages:
         name: experience
         url: /experience
         weight: 4
-      - identifier: git
-        name: git
-        url: https://git.senvang.org/user/login/
-        weight: 5
       - identifier: posts
         name: posts
         url: /posts
-        weight: 6
+        weight: 5
