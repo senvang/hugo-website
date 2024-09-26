@@ -1,2 +1,2 @@
 #!/bin/bash
-hugo && rsync -avz --delete public/ vs1:/var/www/senvang/public/
+hugo && rsync -avz --delete public/ vs:/var/www/senvang/public/
