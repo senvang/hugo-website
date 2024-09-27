@@ -4,9 +4,9 @@ date:
 draft: false
 ---
 
-* phone: +84931131612 (MobiFone) or +84373221279 (Viettel)
+* phone: +84931131612 and +84373221279
 
-* messenger: [signal](https://signal.org) or [zalo](https://zalo.me/stefanroemer)
+* messenger: [signal](https://signal.org), [whatsapp](https://www.whatsapp.com) and [zalo](https://zalo.me)
 
 * find me on:
   * [github](https://github.com/sroemer)
