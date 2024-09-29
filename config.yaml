@@ -3,8 +3,6 @@ languageCode: en-us
 theme: senvang
 
 params:
-  themeColor: blue
-  favicon: img/favicon.png
   centerTheme: true
 
 languages:
