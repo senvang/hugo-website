@@ -19,12 +19,13 @@ in 2006. Since 2007 I did work as a development engineer in the field of logisti
 In 2019 I moved to Vietnam, started my own business and do provide software development services on a free
 lance basis.
 
-I am a Linux user and Windows didn't touch my PCs since many years. Currently I am running Gentoo Linux on my desktop,
-Artix Linux on my laptop and Devuan Linux on my server. In general - from servers to embedded systems - I like it simple
-and minimalistic. I feel at home in a terminal and prefer a good command line interface over GUIs where feasible. I like
-dealing with low-level stuff and I am always interested in digging deeper to understand how things work (or why they don't).
+I am a Linux user and Windows didn't touch my PCs since many years. Currently I am mainly using Gentoo Linux but in the
+past I used different Debian based distributions and I also do work with RedHat based distros. In general - from servers to
+embedded systems - I like it simple and minimalistic. I feel at home in a terminal and prefer a good command line interface
+over GUIs where feasible. I like dealing with low-level stuff and I am always interested in digging deeper to understand
+how things work (or why they don't).
 
-I also like tinkering with Arduino, ESP32, Raspberry Pi etc., 3D printing, photography, badminton and I NEED coffee.
+Tinkering with Arduino, ESP32, Raspberry Pi etc., 3D printing, photography and badminton are other things I am interested in.
 
 ---
 
