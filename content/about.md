@@ -6,7 +6,7 @@ draft: false
 
 Hi, I am Stefan Römer.
 
-{{< image src="/img/avatar.png" alt="Stefan Römer" position="center" style="border-style: solid; bolder-size: 8px; border-color: grey; border-radius: 50%;" >}}
+{{< image src="/img/avatar.png" alt="Stefan Römer" position="center" style="border: 2px solid #003060; border-radius: 50%;" >}}
 
 I am a freelance software developer with over 17+ years of [experience](#experience) (details below) with the main focus
 on low-level, system and network programming. From server to embedded - I like it simple and minimalistic and prefer a good
