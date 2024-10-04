@@ -1,13 +1,11 @@
 ---
-title: "Welcome"
+title: ""
 date:
 draft: false
 framed: true
 ---
-### Stefan Römer - Software Development Freelancer
-
-## Open for software development and DevOps work  
+### Stefan Römer - Freelance Software Developer - Open for work  
 
 {{< image src="/img/avatar.png" alt="Stefan Römer" position="center" style="border-style: solid; bolder-size: 8px; border-color: grey; border-radius: 50%;" >}}
 
-Find out more about my skills, interests and expierience. [Contact](/contact/) welcome. 
+Find out more [about me](/about/), my [skills](/about/#skills), interests and [experience](/about/#experience). [Contact](/contact/) welcome. 

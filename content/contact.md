@@ -22,3 +22,17 @@ draft: false
 
   {{< formspree_contact >}}
 
+---
+
+# Company Address
+
+SENVANG IT Solutions Co. Ltd.  
+A6/48E Nguyen Thi Tron, Ap 1A  
+Vinh Loc A Commune  
+Binh Chanh District  
+71821 Ho Chi Minh City  
+Vietnam
+
+{{< osm_map_business >}}
+
+Business registration / tax number: 0315745704

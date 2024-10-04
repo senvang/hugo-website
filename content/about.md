@@ -8,35 +8,79 @@ Hi, I am Stefan Römer.
 
 {{< image src="/img/avatar.png" alt="Stefan Römer" position="center" style="border-style: solid; bolder-size: 8px; border-color: grey; border-radius: 50%;" >}}
 
-I am a [self-employed](/business) Software Engineer with over 16 years of [work experience](/experience) (mainly C/C++, shell and batch
-scripts, python) and in-depth OS (Windows and Linux) and networking knowledge (implementation of
-custom interfaces, amongst others a CORBA interface used in the sorting centers of an international
-logistics company).
+I am a freelance software developer with over 17+ years of [experience](#experience) (details below) with the main focus
+on low-level, system and network programming. From server to embedded - I like it simple and minimalistic and prefer a good
+command line interface over GUIs where feasible. I am also interested in system administration and task automation.
 
-I studied Information and Communications Technologies (ICT) at the Frankfurt University of Applied Sciences
-from which I graduated with the degree of a Dipl.&#x2011;Ing.(FH) [Graduate Engineer (University of Applied Sciences)]
-in 2006. Since 2007 I did work as a development engineer in the field of logistics automation.
-In 2019 I moved to Vietnam, started my own business and do provide software development services on a free
-lance basis.
+Linux is my OS of choice (since ~1998 when I got my hands on a SuSE Linux bundle in a local book store). Currently I use
+Gentoo Linux on my server and my desktops and OpenWRT on a bunch of network devices in the house. I have experience with
+Debian and RedHat based distributions as well and did work with Windows too.
 
-I am a Linux user and Windows didn't touch my PCs since many years. Currently I am mainly using Gentoo Linux but in the
-past I used different Debian based distributions and I also do work with RedHat based distros. In general - from servers to
-embedded systems - I like it simple and minimalistic. I feel at home in a terminal and prefer a good command line interface
-over GUIs where feasible. I like dealing with low-level stuff and I am always interested in digging deeper to understand
-how things work (or why they don't).
-
-Tinkering with Arduino, ESP32, Raspberry Pi etc., 3D printing, photography and badminton are other things I am interested in.
+As a generalist and avid learner I am always curious and interested in new things and like digging deeper to understand
+how things work (or why they don't) and therefore I gathered a wide range of knowledge and interests which only partially
+can be highlighted here.
 
 ---
 
-# Address - that's where I live
+# ***Skills:*** {#skills}
 
-Stefan Römer  
-25, D11 Street  
-Viet Sing Residential Area  
-An Phu Ward, Thuan An City  
-Binh Duong Province  
-Vietnam
++ Programming languges: `C` `Python` `Bash` `Rust` 
 
-{{< osm_map_contact >}}
++ Operating systems: `Linux` `Windows` `POSIX` `Embedded`
 
++ Network communication: `Ethernet` `WiFi` `Bluetooth` `VLAN` `IP` `TCP` `UDP` `CORBA` `SSH` `DNS` `Firewall` `SSL/TLS` `HTTP` `VPN` `...`
+
++ Serial communication: `RS-232` `USB`
+
++ Other: `Postfix` `Dovecot` `Let's encrypt` `Certbot` `CalDAV` `CardDAV` `SPF` `DKIM` `DMARC` `MTA-STS` `DANE`
+
+---
+
+# ***Experience:*** {#experience}
+
+#### SENVANG IT Solutions (04/2019 - present)
+
+Expatriated to Vietnam and started my company *SENVANG IT Solutions Co. Ltd.*
+
+With it I provide software development services on a freelance basis and by this way kept working for
+my previous employer *VITRONIC Machine Vision* continously.
+
+
+
+#### VITRONIC Machine Vision (01/2007 - 03/2019)
+->    *see reference in [german](/pdf/reference_vitronic.pdf) (original) or  [english](/pdf/reference_vitronic_en.pdf) (translation by Google Translate)*
+
+Software engineer in logistics automation responsible for the following tasks:
+
++ Conception and implementation of software using C/C++ on Windows and Linux
+
++ Conception and integration of new software components into existing systems and architectures
+
++ Network programming and implementation of custom network interfaces, including CORBA with ACE/TAO
+
++ Conception and implementation of an innovative Auto-ID system. This multi-code reading system
+  was successfully introduced to the relevant markets largely through my collaboration.
+
++ Technical support for the commissioning of complex systems at customers, as well as coordination of
+  problem analysis and resolution on site. This also involved international contacts with service
+  personnel, business partners and customers.
+
++ Amongst others using Makefiles, Eclipse, MS Visual Studio, CVS, Git, STL, MFC, Qt, ACE, TAO,
+  GigE/USB3 Vision Cameras, Scales and Dimensioners via TPC/IP and RS232 interfaces
+
+
+
+#### Diehl Aviation (10/2005 - 03/2006) *internship*
+->    *see reference in [german](/pdf/reference_diehl.pdf) (original) or  [english](/pdf/reference_diehl_en.pdf) (translation by Google Translate)*
+
+Development of an automated tool for loading the application software on the Doors and Slides Management
+System (DSMS) of the Airbus A380 in a fast and reliable way. The DSMS is a redundant system that powers
+and monitors the A380's passenger doors, hatches and escape slides.
+
+
+
+#### Schneider Electric (07/2002 - 08/2002) *internship*
+->    *see reference in [german](/pdf/reference_schneider-electric.pdf) (original) or [english](/pdf/reference_schneider-electric_en.pdf) (translation by Google Translate)*
+
+Assembling and wiring of control cabinets for the automotive industry according to circuit diagrams,
+terminal plans and parts lists and assemblies of devices and PLC controls.
