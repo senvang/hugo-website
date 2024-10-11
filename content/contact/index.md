@@ -4,16 +4,17 @@ date:
 draft: false
 ---
 
-* send an email via the contact form:
-
-  {{< formspree_contact >}}
-  
-
 * find me on:
   * [github](https://github.com/sroemer)
   * [linkedin](https://www.linkedin.com/in/stefan-r%C3%B6mer-35405825b/)
   * [mastodon](https://fosstodon.org/@sroemer)
+  * [signal](https://signal.me/#eu/4BEU3w5Dnk3PXRWAv-a37L7Ir-LdIjvCYr5kEwXxHQhOZ2tD97tOMZGkmHRJvtGZ)
   * [xing](https://www.xing.com/profile/Stefan_Roemer213/)
+
+* send an email via the contact form:
+
+  {{< formspree_contact >}}
+  
 
 * pgp public key:
   * download:  [pubkey.asc](/gnupg/pubkey.asc) or [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/1B2F863656B381335B965E708012A30B3812F2EE)

@@ -18,15 +18,15 @@ languages:
 
     menu:
       main:
-      - identifier: blog
-        name: blog
-        url: /
-        weight: 1
       - identifier: about
-        name: about me
+        name: about
         url: /about
-        weight: 2
+        weight: 1
       - identifier: contact
         name: contact
         url: /contact
+        weight: 2
+      - identifier: posts
+        name: posts
+        url: /posts
         weight: 3
