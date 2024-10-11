@@ -84,3 +84,15 @@ and monitors the A380's passenger doors, hatches and escape slides.
 
 Assembling and wiring of control cabinets for the automotive industry according to circuit diagrams,
 terminal plans and parts lists and assemblies of devices and PLC controls.
+
+---
+
+# ***Qualification:*** {#qualification}
+
+#### Frankfurt University of Applied Sciences (09/2002 - 11/2006)
+
+Engineer with a degree in *Information and Communications Technology (ICT)* from the
+[Frankfurt University of Applied Sciences](https://www.frankfurt-university.de/en/).
+
+->    *see the [diploma certificate](/pdf/diploma_certificate.pdf) (german) and the additional
+[diploma supplement explanatory notes](/pdf/diploma_supplement.pdf) (english)*
