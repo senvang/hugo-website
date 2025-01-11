@@ -31,6 +31,7 @@ keywords:
 showFullContent: true
 readingTime: false
 hideComments: false
+toc: true
 ---
 
 I recently bought an [Banana Pi BPI-F3](https://docs.banana-pi.org/en/BPI-F3/BananaPi_BPI-F3).
@@ -45,15 +46,29 @@ Requirements:
 - BPI-F3
 - 12V Power Supply
 - USB to serial adapter (3.3V TTL)
-- USB-C to USB-A/C cable for connecting the BPI-F3 to host
+- USB-C to USB-A cable for connecting the BPI-F3 to the host
+
+Contents:
+{{% toc %}}
 
 #  1 - Serial console {#serial-console}
 
+## 1.1 Connecting a USB to serial adapter
+
 Connect GND, RX and TX of the `UART0 Debug` connector to an USB serial adapter (3.3V TTL).
-Once connected a terminal can be used to connect with the settings `115200-8-N-1`.
+Once connected a terminal can be used to connect with the following settings:
+
+```
+baud rate: 115200
+data bits: 8
+parity   : none
+stop bits: 1
+```
+
+## 1.2 Output with empty eMMC and no SD card inserted
 
 In the default configuration the BPI-F3 tries to boot from SD card first and falls back to booting
-from eMMC. However, on a new BPI-F3 the eMMC doesn't contain any data and so without an SD card the
+from eMMC. However, on a new BPI-F3 the eMMC doesn't contain any data and therefore without an SD card the
 output looks as shown below:
 ```
 ␀sys: 0x0
@@ -71,7 +86,6 @@ Controller Run
 ```
 
 So in the next step we need to prepare an SD card and/or write an image to the eMMC.
-
 
 # 2 - Installing an image {#install-image}
 
@@ -181,3 +195,11 @@ fastboot flash rootfs rootfs.ext4
 
 Now a reset should result in the `BPI-F3` booting up the installed `Linux`.
 The boot process can be watched on the serial debug console.
+
+# 3 - What to do next?
+
+- Play around with the device
+- Understand the boot process etc.
+- Investigate why the SD card images of Bianbu Linux did not boot
+- Custom builds of OpenSBI, U-Boot and Linux
+- and maybe more ...

@@ -30,3 +30,7 @@ languages:
         name: posts
         url: /posts
         weight: 3
+markup:
+  tableOfContents:
+    startLevel: 1
+    endLevel: 3
