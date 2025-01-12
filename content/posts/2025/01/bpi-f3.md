@@ -1,5 +1,5 @@
 ---
-title: Banana Pi BPI-F3 
+title: Getting started with the Banana Pi BPI-F3 
 date: 2025-01-10T00:20:00+07:00
 author: sroemer
 categories:
@@ -16,6 +16,7 @@ tags:
 - fastboot
 - uboot
 - u-boot
+- firmware
 keywords:
 - embedded
 - riscv
@@ -28,6 +29,7 @@ keywords:
 - fastboot
 - uboot
 - u-boot
+- firmware
 showFullContent: true
 readingTime: false
 hideComments: false
